@@ -9,4 +9,5 @@
 
 Projeto desenvolvido com o auxílio de um tutorial do Youtube, com o objetivo de aprender CSharp e .Net
 
-link do tutorial do youtube: 
+##### link do tutorial do youtube: 
+https://www.youtube.com/watch?v=GcFJjpMFJvI
